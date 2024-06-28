@@ -1,4 +1,5 @@
 #Nie przeczytałem całego polecenia o tym że należy robić plik .sh z komendami. Zobaczyłem to dopiero jak byłem przy tematach zaawansowanych. Mam nadzieję że komendy z pozostałych zadań wystarczą na pokazanie że zrobiłem całe zadanie.
+
 Główny
 
 zadanie 5.1
